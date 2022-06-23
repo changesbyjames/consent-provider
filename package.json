@@ -1,0 +1,12 @@
+{
+  "name": "consent-provider",
+  "version": "1.0.0",
+  "description": "A GDPR compliant consent provider (ala an Identity provider like Azure AD or Google Auth).",
+  "repository": "https://github.com/changesbyjames/consent-provider.git",
+  "author": "James Williams",
+  "license": "UNLICENSED",
+  "workspaces": [
+    "api"
+  ],
+  "private": true
+}
